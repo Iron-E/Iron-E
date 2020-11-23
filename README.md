@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Iron-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&show_icons=true&theme=synthwave)
+![Iron-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on [Neovim](https://github.com/neovim/neovim) plugins and other personal development.
 - 👯 I’m looking to collaborate on the integration of [`nvim-libmodal`](https://github.com/Iron-E/nvim-libmodal) with more plugins.
