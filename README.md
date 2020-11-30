@@ -2,8 +2,6 @@
 
 ![Iron-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&show_icons=true&theme=tokyonight)
 
-![Years Active](https://badges.pufler.dev/years/Iron-E?style=flat)
-![Repo Count](https://badges.pufler.dev/repos/Iron-E?style=flat)
 ![Gist Count](https://badges.pufler.dev/gists/Iron-E?style=flat)
 ![Commits This Month](https://badges.pufler.dev/commits/monthly/Iron-E?style=flat)
 
