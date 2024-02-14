@@ -1,10 +1,6 @@
-<h1 align="center">
-	Hi 👋, I'm Iron-E
-</h1>
+# Hi 👋, I'm Iron-E
 
-<span align="left">
-	<img src="https://komarev.com/ghpvc/?username=iron-e&label=Profile%20views%20since%202021-07-07&color=0e75b6&style=flat" alt="iron-e profile visits since 2021-07-07" />
-</span>
+![Profile views since 2021-07-07](https://komarev.com/ghpvc/?username=iron-e&label=Profile%20views%20since%202021-07-07&color=0e75b6&style=flat)
 
 ![Iron-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
@@ -13,7 +9,7 @@
 - ⛓ Other links:
   - [My dotfiles](https://gitlab.com/Iron_E/Dotfiles)
 
-<h3 align="center">Languages and Tools:</h3>
+## Languages & Tools
 
 <div align="center">
 	<div align="center">
@@ -97,3 +93,4 @@
 	/>
 </div>
 
+![Iron-E's Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-E&custom_title=Languages%20in%20Public%20Repos&langs_count=10&layout=compact&exclude_repo=Gilbo-API,Morrisland&theme=tokyonight)
