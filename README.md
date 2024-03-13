@@ -4,7 +4,7 @@
 
 ![Iron-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Nix**
 - 📫 Reach me at **code.iron.e@gmail.com**
 - ⛓ Other links:
   - [My dotfiles](https://gitlab.com/Iron_E/Dotfiles)
