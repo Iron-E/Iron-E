@@ -86,4 +86,4 @@
 	</a>
 </div>
 
-![Iron-E's Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-E&custom_title=Languages%20in%20Public%20Repos&langs_count=10&layout=compact&exclude_repo=Gilbo-API,Morrisland&theme=tokyonight)
+![Iron-E's Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-E&custom_title=Languages%20in%20Public%20Repos&langs_count=11&layout=compact&exclude_repo=Gilbo-API,Morrisland&theme=tokyonight)
