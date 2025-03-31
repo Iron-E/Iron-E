@@ -55,7 +55,7 @@
 		<img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 	</a>
 	<a href="https://jqlang.org/manual/" target="_blank">
-		<img alt="jq" height="40" width="40" src="https://en.wikipedia.org/wiki/File:Jq_logo.svg"/>
+		<img alt="jq" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jq_logo.svg/800px-Jq_logo.svg.png"/>
 	</a>
 	<a href="https://jsonnet.org/" target="_blank">
 		<img alt="jsonnet" height="40" width="40" src="https://jsonnet.org/img/isologo.svg"/>
